@@ -18,3 +18,4 @@ Coorganizadores
 -	Hugo - @hhgn32
 -	Bryan - Finanzas @bvalenzuela
 -	Jonnathan - @louicruz
+-	Lucia Consenza - Imagen y diseno - @Lucosenza2015

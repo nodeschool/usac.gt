@@ -22,4 +22,5 @@ Coorganizadores
 
 # Eventos
 Nuestro primer evento 20 ago 2015
+USAC Facultad de ingeniería
 https://ti.to/guatemalajs/nodeschool-usac-gt-nodejs-para-principiantes

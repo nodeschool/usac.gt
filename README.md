@@ -19,3 +19,7 @@ Coorganizadores
 -	Bryan - Finanzas @bvalenzuela
 -	Jonnathan - @louicruz
 -	Lucia Consenza - Imagen y diseno - @Lucosenza2015
+
+# Eventos
+Nuestro primer evento 20 ago 2015
+https://ti.to/guatemalajs/nodeschool-usac-gt-nodejs-para-principiantes

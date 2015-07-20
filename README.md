@@ -1,6 +1,8 @@
 usac.gt
 =======
 
+[![Join the chat at https://gitter.im/nodeschool/usac.gt](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/nodeschool/usac.gt?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 :school: Nodeschool USAC Guatemala
 
 Coorganizadores
@@ -22,5 +24,5 @@ Coorganizadores
 
 # Eventos
 Nuestro primer evento 20 ago 2015
-USAC Facultad de ingeniería
+USAC Facultad de ingenierï¿½a
 https://ti.to/guatemalajs/nodeschool-usac-gt-nodejs-para-principiantes

@@ -32,4 +32,6 @@ Imagen y Diseño: - Lucia Consenza: [@Lucosenza2015](https://github.com/Lucosenz
 
 Finanzas: - Bryan Valenzuela: [@bvalenzuela](https://github.com/bvalenzuela)
 
-Support: - Lexter Cruz: [@cruzperez](https://github.com/cruzperez) - Hugo Negredos: [@hhgn32](https://github.com/hhgn32) - Jonnathan Cruz: [@louicruz](https://github.com/louicruz)
+Support: - Lexter Cruz: [@cruzperez](https://github.com/cruzperez) - Hugo González: [@hhgn32](https://github.com/hhgn32) - Jonnathan Cruz: [@louicruz](https://github.com/louicruz)
+
+[![NodeSchool](http://nodeschool.io/images/schoolhouse.svg)](http://nodeschool.io)

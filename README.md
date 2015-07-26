@@ -1,7 +1,7 @@
 :school: NodeSchool Guatemala, City [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/nodeschool/usac.gt?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge#)
 ========================================================================================================================================================================================
+[![NodeSchool](https://raw.githubusercontent.com/nodeschool/usac.gt/feature-readme-updates/images/usac-nodeschool-logo.jpg)](http://nodeschool.io)
 
-[![NodeSchool](https://raw.githubusercontent.com/nodeschool/usac.gt/master/images/usac-nodeschool-logo.jpg|width=350px)](http://nodeschool.io)
 ==============================================================================================================================================
 
 Bienvenido/a al NodeSchool de Guatemala, organizado por la [Universidad de San Carlos de Guatemala](http://bogotajs.com).
@@ -32,4 +32,6 @@ Imagen y Diseño: - Lucia Consenza: [@Lucosenza2015](https://github.com/Lucosenz
 
 Finanzas: - Bryan Valenzuela: [@bvalenzuela](https://github.com/bvalenzuela)
 
-Support: - Lexter Cruz: [@cruzperez](https://github.com/cruzperez) - Hugo Negredos: [@hhgn32](https://github.com/hhgn32) - Jonnathan Cruz: [@louicruz](https://github.com/louicruz)
+Support: - Lexter Cruz: [@cruzperez](https://github.com/cruzperez) - Hugo Gonzalez: [@hhgn32](https://github.com/hhgn32) - Jonnathan Cruz: [@louicruz](https://github.com/louicruz)
+
+[![NodeSchool](http://nodeschool.io/images/schoolhouse.svg)](http://nodeschool.io)

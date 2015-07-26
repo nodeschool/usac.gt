@@ -1,8 +1,8 @@
 :school: NodeSchool Guatemala, City [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/nodeschool/usac.gt?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge#)
 ========================================================================================================================================================================================
 
-[![NodeSchool](https://raw.githubusercontent.com/nodeschool/usac.gt/master/images/usac-nodeschool-logo.jpg =350x)](http://nodeschool.io)
-========================================================================================================================================
+[![NodeSchool](https://raw.githubusercontent.com/nodeschool/usac.gt/master/images/usac-nodeschool-logo.jpg |width=350px)](http://nodeschool.io)
+===============================================================================================================================================
 
 Bienvenido/a al NodeSchool de Guatemala, organizado por la [Universidad de San Carlos de Guatemala](http://bogotajs.com).
 

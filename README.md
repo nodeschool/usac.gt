@@ -3,7 +3,7 @@
 
 [![NodeSchool](http://nodeschool.io/images/schoolhouse.svg)](http://nodeschool.io)
 ===============
-Bienvenido/a al NodeSchool de Guatemala, organizado por la [Universidad de San Carlos de Guatemala](http://bogotajs.com).
+Bienvenido/a al NodeSchool de Guatemala, organizado por la [Universidad de San Carlos de Guatemala](http://usac.edu.gt).
 
 Si deseas ser mentor de algún [NodeSchool](http://nodeschool.io/about.html) o deseas co-organizar uno, escríbenos en: [Buscamos Mentores](https://github.com/nodeschool/usac.gt/issues/6).
 

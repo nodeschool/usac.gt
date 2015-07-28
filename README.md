@@ -13,7 +13,7 @@ Si tenes alguna duda sobre los eventos, la información estará disponible en su
 Próximos Eventos NodeSchools
 ============================
 
--	Nombre: NodeJS Para Principiantes <br /> Fecha: 20 de Agosto, 2015 <br /> Hora: 11:00 AM <br /> Lugar: USAC, Facultad de ingeniería <br />[**¡Inscríbete aquí!**](https://ti.to/guatemalajs/nodeschool-usac-gt-nodejs-para-principiantes)
+-	Nombre: NodeJS Para Principiantes <br /> Fecha: 20 de Agosto, 2015 <br /> Hora: 11:00 AM <br /> Lugar: USAC, Facultad de ingeniería Edificio T-3 salon 315<br />[**¡Inscríbete aquí!**](https://ti.to/guatemalajs/nodeschool-usac-gt-nodejs-para-principiantes)
 
 Organizadores
 =============
